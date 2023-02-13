@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448417221241",
+    "project_id": "linen-hook-346309",
+    "storage_bucket": "linen-hook-346309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448417221241:android:fb8203bca1e4df00eea2a8",
+        "android_client_info": {
+          "package_name": "com.example.login_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448417221241-mhsdg2gr0u7jv89qq64bt91o4bb7tt4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3jaoTUulQlQImEAmGOIURhVD5W6lWYz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448417221241-mhsdg2gr0u7jv89qq64bt91o4bb7tt4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
